@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm a passionate front-end developer currently focusing on React. I'm on a journey to dive deeper into both front-end and back-end technologies, aspiring to build well-rounded skills to land a role at a tech company where I can grow and contribute as a developer.
-
 <br>
 🌱 What I'm Learning
 React and its ecosystem
