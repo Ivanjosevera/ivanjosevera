@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Vera</h1> <h3 align="center">Junior Frontend Developer</h3> <p align="center"> I'm a passionate front-end developer focusing on <strong>React</strong>. I'm currently diving deeper into both front-end and back-end technologies, aspiring to build well-rounded skills to land a role at a tech company where I can grow and contribute as a developer. </p>
-<br>
+
 🌱 What I'm Learning
 
 React and its ecosystem
